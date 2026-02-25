@@ -27,7 +27,7 @@ for (int i=0;i<n;i++) {
 	}
 }
 if(!found) {
-	System.out.println("Element not found:");
+	System.out.println("Element not found");
 }
 sc.close();
 	}
